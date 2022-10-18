@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:todo/Screens/home.dart';
 
 
-import 'Model/user.dart';
+import '../Model/user.dart';
+
 
 class UserPage extends StatefulWidget {
   const UserPage({super.key});
