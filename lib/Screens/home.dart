@@ -14,7 +14,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  final textcontrolor = TextEditingController();
+  // final textcontrolor = TextEditingController();
 
   @override
   Widget build(BuildContext context) {
